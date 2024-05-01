@@ -1,0 +1,2 @@
+# Framework_Consumo_API_SP2_Atividade_2_LHGamesDOCS
+ swagger
